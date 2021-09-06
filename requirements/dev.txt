@@ -50,7 +50,7 @@ PyYAML==4.2b1 \
 q==2.6 \
     --hash=sha256:8687008a5b50ddc1c114392a37591cb4fbe082dcc8b02bdc6692689c69d08314 \
     --hash=sha256:de0fcf5a439754975dd8022c3bf26374b882d0fe4265aab8813f4e87e057eed5
-Sphinx==1.2.3 \
+Sphinx==3.0.4 \
     --hash=sha256:d145e43acd83c5ba2cefb276107e966fe6335db0265a7a0b4b10a2adb84cd26d \
     --hash=sha256:bb090def11fba51167a588d8ca4969f49a3c437ad8acf960dfd39c4b0cf16009 \
     --hash=sha256:94933b64e2fe0807da0612c574a021c0dac28c7bd3c4a23723ae5a39ea8f3d04
@@ -182,7 +182,7 @@ lazy-object-proxy==1.4.3 \
     --hash=sha256:eba7011090323c1dadf18b3b689845fd96a61ba0a1dfbd7f24b921398affc357 \
     --hash=sha256:efa1909120ce98bbb3777e8b6f92237f5d5c8ea6758efea36a473e1d38f7d3e4 \
     --hash=sha256:f3900e8a5de27447acbf900b4750b0ddfd7ec1ea7fbaf11dfa911141bc522af0
-Pygments==2.5.2 \
+Pygments==2.7.4 \
     --hash=sha256:2a3fe295e54a20164a9df49c75fa58526d3be48e14aceba6d6b1e8ac0bfd6f1b \
     --hash=sha256:98c8aa5a9f778fcd1026a17361ddaf7330d1b7c62ae97c3bb0ae73e0b9b6b0fe
 prompt-toolkit==1.0.18 \
@@ -227,3 +227,4 @@ pylint-plugin-utils==0.6 \
 parameterized==0.7.1 \
     --hash=sha256:6a94dbea30c6abde99fd4c2f2042c1bf7f980e48908bf92ead62394f93cf57ed \
     --hash=sha256:ea0326ba5bbbe7c427329a27b75003410df07d1173ca254976f8f5a64922c322
+django>=2.2.18 # not directly required, pinned by Snyk to avoid a vulnerability
