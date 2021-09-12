@@ -324,7 +324,7 @@ requests-oauthlib==0.4.2 \
     --hash=sha256:9ad48523e2735e2bda3ef6354073778c87fd718e4e5661a1d1b70e0ca05b619e
 simplejson==3.7.3 \
     --hash=sha256:63d7f7b14a20f29f74325a69e6db45925eaf6e3a003eab46c0234fd050a8c93f
-sqlparse==0.1.1 \
+sqlparse==0.4.2 \
     --hash=sha256:6049385a7032628c9a9bc2ac578ce1826e4179b0a8a9f33b535f022fabd8d3ea
 translate-toolkit==1.6.0 \
     --hash=sha256:02832f3b1b071efacb235b4590fd54c7ed0d8911de8d72f46b087d0c86b21350
