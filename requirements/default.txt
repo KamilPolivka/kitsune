@@ -26,7 +26,7 @@ https://github.com/jbalogh/django-debug-cache-panel/archive/a6b0f248b721bdd759ee
     --hash=sha256:fd6969f877bbca861f06558b742c38d40ea9ad71c565fdcc277f4e37331d0319
 carrot==0.10.7 \
     --hash=sha256:cb46374f3c883c580d142a79d2609883713a867cc86e0514163adce784ce2468
-celery==3.1.25 \
+celery==5.2.2 \
     --hash=sha256:1954a224805f3835e5b6f5998ec9fe51db3413cc49e59fc720d314c7913427cf \
     --hash=sha256:6ced63033bc663e60c992564954dbb5c84c43899f7f1a04b739957350f6b55f3
 click==7.0 \
