@@ -521,7 +521,7 @@ django-user-agents==0.4.0 \
 user-agents==2.1 \
     --hash=sha256:da54371d856c35d8ead0622da24ad5ef6d667eda3629a750e3373a3e847a054b \
     --hash=sha256:e727ab6f169e829bc25d41dbd25b9ff679b4631bd81959bcf7de1e246da67194
-ua-parser==0.10.0 \
+ua-parser==0.15.0 \
     --hash=sha256:46ab2e383c01dbd2ab284991b87d624a26a08f72da4d7d413f5bfab8b9036f8a \
     --hash=sha256:47b1782ed130d890018d983fac37c2a80799d9e0b9c532e734c67cf70f185033
 PyYAML==5.3 \
