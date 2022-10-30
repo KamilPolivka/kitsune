@@ -99,7 +99,7 @@ pyasn1==0.2.3 \
 six==1.12.0 \
     --hash=sha256:3350809f0555b11f552448330d0b52d5f24c91a322ea4a15ef22629740f3761c \
     --hash=sha256:d16a0141ec1a18405cd4ce8b4613101da75da0e9a7aec5bdd4fa804d0e0eba73
-cryptography==2.3 \
+cryptography==3.2 \
     --hash=sha256:87d092a7c2a44e5f7414ab02fb4145723ebba411425e1a99773531dd4c0e9b8d \
     --hash=sha256:67f7f57eae8dede577f3f7775957f5bec93edd6bdb6ce597bb5b28e1bdf3d4fb \
     --hash=sha256:27bb401a20a838d6d0ea380f08c6ead3ccd8c9d8a0232dc9adcc0e4994576a66 \
@@ -122,7 +122,7 @@ cryptography==2.3 \
 dennis==0.7 \
     --hash=sha256:e9e925c0097c6f5eb7716e50ca57155ed1f670f0fa72a661053198c1890a02f5 \
     --hash=sha256:fde267aeb03a8d49e3341e7f71a228c6748dce43b5c00f65581780d99b70b2d9
-Django==1.11.29 \
+Django==3.2.15 \
     --hash=sha256:014e3392058d94f40569206a24523ce254d55ad2f9f46c6550b0fe2e4f94cf3f \
     --hash=sha256:4200aefb6678019a0acf0005cd14cfce3a5e6b9b90d06145fcdd2e474ad4329c
 django-activity-stream==0.6.5 \
@@ -330,7 +330,7 @@ translate-toolkit==1.6.0 \
     --hash=sha256:02832f3b1b071efacb235b4590fd54c7ed0d8911de8d72f46b087d0c86b21350
 twython==3.2.0 \
     --hash=sha256:ab0dec52286677e944ddc00eaf6a0eb89af48b1a6696324ea29351342d1c483f
-urllib3==1.25.3 \
+urllib3==1.26.5 \
     --hash=sha256:b246607a25ac80bedac05c6f282e3cdaf3afb65420fd024ac94435cabe6e18d1 \
     --hash=sha256:dbe59173209418ae49d485b87d1681aefa36252ee85884c31346debd19463232
 Werkzeug==0.5.1 \
@@ -362,7 +362,7 @@ redis==2.10.6 \
     --hash=sha256:a22ca993cea2962dbb588f9f30d0015ac4afcc45bee27d3978c0dbe9e97c6c0f
 newrelic==4.18.0.118 \
     --hash=sha256:3cd496022c6906ee3cdbf27c67ec3e03922830bfebbca4549ef6f2e58cf719e2
-meinheld==0.6.1 \
+meinheld==1.0.2 \
     --hash=sha256:40d9dbce0165b2d9142f364d26fd6d59d3682f89d0dfe2117717a8ddad1f4133 \
     --hash=sha256:293eff4983b7fcbd9134b47706b22189883fe354993bd10163c65869d141e565
 greenlet==0.4.12 \
