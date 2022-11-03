@@ -8,7 +8,7 @@ amqplib==1.0.2 \
     --hash=sha256:843d69b681a60afd21fbf50f310404ec67fcdf9d13dfcf6e9d41f3b456217e5b
 anyjson==0.3.3 \
     --hash=sha256:37812d863c9ad3e35c0734c42e0bf0320ce8c3bed82cd20ad54cb34d158157ba
-Babel==2.6.0 \
+Babel==2.9.1 \
     --hash=sha256:6778d85147d5d85345c14a26aada5e478ab04e39b078b0745ee6870c2b5cf669 \
     --hash=sha256:8cba50f48c529ca3fa18cf81fa9403be176d374ac4d60738b839122dfaaa3d23
 billiard==3.3.0.23 \
@@ -26,7 +26,7 @@ https://github.com/jbalogh/django-debug-cache-panel/archive/a6b0f248b721bdd759ee
     --hash=sha256:fd6969f877bbca861f06558b742c38d40ea9ad71c565fdcc277f4e37331d0319
 carrot==0.10.7 \
     --hash=sha256:cb46374f3c883c580d142a79d2609883713a867cc86e0514163adce784ce2468
-celery==3.1.25 \
+celery==5.2.2 \
     --hash=sha256:1954a224805f3835e5b6f5998ec9fe51db3413cc49e59fc720d314c7913427cf \
     --hash=sha256:6ced63033bc663e60c992564954dbb5c84c43899f7f1a04b739957350f6b55f3
 click==7.0 \
@@ -122,7 +122,7 @@ cryptography==2.3 \
 dennis==0.7 \
     --hash=sha256:e9e925c0097c6f5eb7716e50ca57155ed1f670f0fa72a661053198c1890a02f5 \
     --hash=sha256:fde267aeb03a8d49e3341e7f71a228c6748dce43b5c00f65581780d99b70b2d9
-Django==1.11.29 \
+Django==3.2.15 \
     --hash=sha256:014e3392058d94f40569206a24523ce254d55ad2f9f46c6550b0fe2e4f94cf3f \
     --hash=sha256:4200aefb6678019a0acf0005cd14cfce3a5e6b9b90d06145fcdd2e474ad4329c
 django-activity-stream==0.6.5 \
@@ -197,7 +197,7 @@ https://github.com/html5lib/html5lib-python/archive/f5855f3d0ad6d4202e2b5d02626d
 httplib2==0.17.2 \
     --hash=sha256:396ef66a170f76d5b2103f6c474da8aa3ff0c3c34c546323885e9de7e9eb08cd \
     --hash=sha256:eb7a6b137ae31e61c5f429083c5bebb71fe5fd1958e7f3d5c39b21b11cd4b290
-Jinja2==2.10.1 \
+Jinja2==2.11.3 \
     --hash=sha256:065c4f02ebe7f7cf559e49ee5a95fb800a9e4528727aec6f24402a5374c65013 \
     --hash=sha256:14dd6caf1527abb21f08f86c784eac40853ba93edb79552aa1e4b8aef1b61c7b
 kombu==3.0.37 \
@@ -233,7 +233,7 @@ oauthlib==0.7.2 \
     --hash=sha256:a051f04ee8ec3305055ab34d87b36c9a449375e07c7d6a05bcafa48329cac7c3
 ordereddict==1.1 \
     --hash=sha256:1c35b4ac206cef2d24816c89f89cf289dd3d38cf7c449bb3fab7bf6d43f01b1f
-Pillow==4.3.0 \
+Pillow==9.0.1 \
     --hash=sha256:cc6a5ed5b8f9d2f25e4e42d562e0ec4df3ce838f9e9b9d9d9b65fac6fe93a4cc \
     --hash=sha256:54898190b538a6c8fa4228e866ff2e7609da1ba9fd1d9cc5dc8ca591d37ce0a8 \
     --hash=sha256:a336596b06e062b92eb8201a3b5dff07ae01c3a5d08ce5539d2da49b123f2be6 \
@@ -330,7 +330,7 @@ translate-toolkit==1.6.0 \
     --hash=sha256:02832f3b1b071efacb235b4590fd54c7ed0d8911de8d72f46b087d0c86b21350
 twython==3.2.0 \
     --hash=sha256:ab0dec52286677e944ddc00eaf6a0eb89af48b1a6696324ea29351342d1c483f
-urllib3==1.25.3 \
+urllib3==1.26.5 \
     --hash=sha256:b246607a25ac80bedac05c6f282e3cdaf3afb65420fd024ac94435cabe6e18d1 \
     --hash=sha256:dbe59173209418ae49d485b87d1681aefa36252ee85884c31346debd19463232
 Werkzeug==0.5.1 \
