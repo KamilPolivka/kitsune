@@ -8,7 +8,7 @@ amqplib==1.0.2 \
     --hash=sha256:843d69b681a60afd21fbf50f310404ec67fcdf9d13dfcf6e9d41f3b456217e5b
 anyjson==0.3.3 \
     --hash=sha256:37812d863c9ad3e35c0734c42e0bf0320ce8c3bed82cd20ad54cb34d158157ba
-Babel==2.6.0 \
+Babel==2.9.1 \
     --hash=sha256:6778d85147d5d85345c14a26aada5e478ab04e39b078b0745ee6870c2b5cf669 \
     --hash=sha256:8cba50f48c529ca3fa18cf81fa9403be176d374ac4d60738b839122dfaaa3d23
 billiard==3.3.0.23 \
@@ -122,7 +122,7 @@ cryptography==2.3 \
 dennis==0.7 \
     --hash=sha256:e9e925c0097c6f5eb7716e50ca57155ed1f670f0fa72a661053198c1890a02f5 \
     --hash=sha256:fde267aeb03a8d49e3341e7f71a228c6748dce43b5c00f65581780d99b70b2d9
-Django==1.11.29 \
+Django==3.2.15 \
     --hash=sha256:014e3392058d94f40569206a24523ce254d55ad2f9f46c6550b0fe2e4f94cf3f \
     --hash=sha256:4200aefb6678019a0acf0005cd14cfce3a5e6b9b90d06145fcdd2e474ad4329c
 django-activity-stream==0.6.5 \
@@ -197,7 +197,7 @@ https://github.com/html5lib/html5lib-python/archive/f5855f3d0ad6d4202e2b5d02626d
 httplib2==0.17.2 \
     --hash=sha256:396ef66a170f76d5b2103f6c474da8aa3ff0c3c34c546323885e9de7e9eb08cd \
     --hash=sha256:eb7a6b137ae31e61c5f429083c5bebb71fe5fd1958e7f3d5c39b21b11cd4b290
-Jinja2==2.10.1 \
+Jinja2==2.11.3 \
     --hash=sha256:065c4f02ebe7f7cf559e49ee5a95fb800a9e4528727aec6f24402a5374c65013 \
     --hash=sha256:14dd6caf1527abb21f08f86c784eac40853ba93edb79552aa1e4b8aef1b61c7b
 kombu==3.0.37 \
