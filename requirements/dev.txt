@@ -70,7 +70,7 @@ hashin==0.13.4 \
     --hash=sha256:a038ac6ff4bb881fe99b0c646c0624f803cd62486d461d82ed4fb6b2cce04e0f
 ipdb==0.12.3 \
     --hash=sha256:5d9a4a0e3b7027a158fc6f2929934341045b9c3b0b86ed5d7e84e409653f72fd
-ipython==5.9.0 \
+ipython==7.16.3 \
     --hash=sha256:54526d92db62bedd872c18131ac7d753fcf054ea34752e1e6ef8eb26391fb1f0 \
     --hash=sha256:8ac83f3a6232b7a5ee4d3535193e782d3de8c260e7b034b968a9cd1e1580f789 \
     --hash=sha256:fbeb7b8344dbb7f4939227ed9b2816ac6028db1775521365619b77f3c943ba74
@@ -182,7 +182,7 @@ lazy-object-proxy==1.4.3 \
     --hash=sha256:eba7011090323c1dadf18b3b689845fd96a61ba0a1dfbd7f24b921398affc357 \
     --hash=sha256:efa1909120ce98bbb3777e8b6f92237f5d5c8ea6758efea36a473e1d38f7d3e4 \
     --hash=sha256:f3900e8a5de27447acbf900b4750b0ddfd7ec1ea7fbaf11dfa911141bc522af0
-Pygments==2.5.2 \
+Pygments==2.7.4 \
     --hash=sha256:2a3fe295e54a20164a9df49c75fa58526d3be48e14aceba6d6b1e8ac0bfd6f1b \
     --hash=sha256:98c8aa5a9f778fcd1026a17361ddaf7330d1b7c62ae97c3bb0ae73e0b9b6b0fe
 prompt-toolkit==1.0.18 \
@@ -227,3 +227,4 @@ pylint-plugin-utils==0.6 \
 parameterized==0.7.1 \
     --hash=sha256:6a94dbea30c6abde99fd4c2f2042c1bf7f980e48908bf92ead62394f93cf57ed \
     --hash=sha256:ea0326ba5bbbe7c427329a27b75003410df07d1173ca254976f8f5a64922c322
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
