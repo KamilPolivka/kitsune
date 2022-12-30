@@ -185,7 +185,7 @@ elasticsearch==1.2.0 \
     --hash=sha256:bb93d85ca7e50d68e4197852bb6dba6098bb772500f82f5db2ff4a80711505c9
 fake-factory==0.5.3 \
     --hash=sha256:90f507891ad1073e08cf6908eb51d5e1debc3c5a5d554427e8c3fbf73cdf12ee
-GitPython==0.1.7 \
+GitPython==3.1.30 \
     --hash=sha256:03754bc7b256397c1b646e5048e2291590f5080171adb8b00f4e2d7384c76eee
 google-api-python-client==1.0 \
     --hash=sha256:83d22f975791135f09927971bd057d5a851a4061fd3f8bc3b7f9438ee79a5cfd \
