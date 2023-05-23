@@ -316,7 +316,7 @@ pytz==2018.9 \
     --hash=sha256:d5f05e487007e29e03409f9398d074e158d920d36eb82eaf66fb1136b0c5374c
 recaptcha-client==1.0.6 \
     --hash=sha256:28c6853c1d13d365b7dc71a6b05e5ffb56471f70a850de318af50d3d7c0dea2f
-requests==2.22.0 \
+requests==2.31.0 \
     --hash=sha256:11e007a8a2aa0323f5a921e9e6a2d7e4e67d9877e85773fba9ba6419025cbeb4 \
     --hash=sha256:9cf5292fcd0f598c671cfc1e0d7d1a7f13bb8085e9a590f48c010551dc6c4b31
 requests-oauthlib==0.4.2 \
