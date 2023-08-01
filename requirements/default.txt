@@ -398,7 +398,7 @@ django-storages==1.6.5 \
 boto3==1.4.7 \
     --hash=sha256:38057b066990172ce6ebbf2a5e046a545503793581fcf14cab0e3821c6112eb0 \
     --hash=sha256:f79f77dca2280f7780f39d72a5088f4cf2b626c0921e7185ed6ac17abfdd7e6c
-botocore==1.7.41 \
+botocore==1.9.12 \
     --hash=sha256:1f6d0019b6a1d7bdd5d4406fdfe7b6776f7469f5f558e2cad6cbec37f1b86ed4 \
     --hash=sha256:353b0ce134dae1bffd0c4bbe8779e277e3dd5b73aadaf767b97ed3f43f6e26d2
 jmespath==0.9.3 \
@@ -445,7 +445,7 @@ chardet==3.0.2 \
 certifi==2019.6.16 \
     --hash=sha256:046832c04d4e752f37383b628bc601a7ea7211496b4638f6514d0e5b9acc4939 \
     --hash=sha256:945e3ba63a0b9f577b1395204e13c3a231f9bc0223888be653286534e5873695
-sentry-sdk==0.7.6 \
+sentry-sdk==1.4.1 \
     --hash=sha256:dc207c083604bae01761866b3145ca9dcf5a45f3de048c4da22eac88889d49e7 \
     --hash=sha256:f94cca2eb41d29fd2bdbedaf9d9a262ab3b4660e5d648d9920fae262e240c368
 django-authority==0.13.2 \
