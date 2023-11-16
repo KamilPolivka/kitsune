@@ -21,7 +21,7 @@ pytest-xdist==1.15.0 \
 requests==2.22.0 \
     --hash=sha256:11e007a8a2aa0323f5a921e9e6a2d7e4e67d9877e85773fba9ba6419025cbeb4 \
     --hash=sha256:9cf5292fcd0f598c671cfc1e0d7d1a7f13bb8085e9a590f48c010551dc6c4b31
-selenium==3.0.1 \
+selenium==4.15.1 \
     --hash=sha256:a9e4f1398302e771ada4a0a268650815b43b354baf2de4e7e5023fb5f9675e50 \
     --hash=sha256:0705803349964c7a2a144f1796a5d29905fe2a09931b2bb945ee0cb4deab75d7
 apipkg==1.4 \
